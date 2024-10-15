@@ -1,4 +1,4 @@
-# FIAP - Faculdade de Informática e Administração Paulista
+ FIAP - Faculdade de Informática e Administração Paulista
 
 <p align="center">
 <a href= "https://www.fiap.com.br/"><img src="assets/logo-fiap.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
@@ -14,9 +14,9 @@
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- Lucas Gomes Moreira
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
+- André Godói Chiovato
 
 
 ## 📜 Descrição
@@ -48,13 +48,13 @@ Uma das principais funcionalidades da solução é a possibilidade de registrar 
 
 * O tamanho da área (em hectares);
 * O tempo total de irrigação;
-* O fator de irrigação específico da cultura plantada naquela área (armazenado na tabela FATORES_IRRIGACAO).
+* O fator de irrigação específico da cultura plantada naquela área (armazenado na tabela `FATORES_IRRIGACAO`).
 
 O cálculo da quantidade de água considera que cada hectare de plantação requer 100 litros de água por hora, ajustado pelo fator de irrigação da cultura.
 
 ### Consulta de Processos de Irrigação
 
-A aplicação permite consultar os processos de irrigação registrados para uma determinada área, exibindo a data de início, data de fim e a quantidade de água utilizada em cada irrigação. Isso facilita o acompanhamento histórico das atividades de irrigação e a eficiência do uso de recursos hídricos.
+A aplicação permite consultar os processos de irrigação registrados `ara uma determinada área, exibindo a data de início, data de fim e a quantidade de água utilizada em cada irrigação. Isso facilita o acompanhamento histórico das atividades de irrigação e a eficiência do uso de recursos hídricos.
 
 ### Monitoramento de Sensores
 
