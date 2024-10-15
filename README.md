@@ -6,16 +6,11 @@
 
 <br>
 
-# Nome do projeto
+# Projeto GAIA - Irrigação Inteligente
 
-## Nome do grupo
+## Responsável
+- <a href="https://www.linkedin.com/in/mstrazzini">Marcos Trazzini (RM559926)</a>
 
-## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
